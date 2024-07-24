@@ -1,0 +1,8 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT = 'LOGOUT';
+export const GET_EXPENSES = 'GET_EXPENSES';
+export const ADD_EXPENSE = 'ADD_EXPENSE';
+export const DELETE_EXPENSE = 'DELETE_EXPENSE';
+export const UPDATE_EXPENSE = 'UPDATE_EXPENSE';
+export const GET_CATEGORIES = 'GET_CATEGORIES';
